@@ -1,0 +1,9 @@
+
+# The code prints Unicode characters.
+
+strUnicode = u'''\u0050\u0079\u0074\u0068\u006f\u006e \u0045\u0078\u0065\u0072\u0063\u0069\u0073\u0065\u0073 \u002d \u0077\u0033\u0072\u0065\u0073\u006f\u0075\u0072\u0063\u0065'''
+
+strUnicode2 = u'\u0042\u0079 \u0053\u0061\u0062\u0061\u0074\u0069\u006E\u0069'
+
+print(strUnicode)
+print(strUnicode2)
